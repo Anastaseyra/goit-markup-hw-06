@@ -975,7 +975,7 @@ input {
     /* Footer */
     .footer-container {
         column-gap: 24px;
-        padding-left: 108px;
+        width: 584px;
     }
 
     .footer-logo {
@@ -1153,6 +1153,7 @@ input {
     .footer-container {
         padding: 0 15px;
         gap: 0;
+        width: 1158px;
     }
         
     .footer-logo-container {
